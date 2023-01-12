@@ -1,0 +1,159 @@
+{
+  "main": {
+    "name": "Neha Manjunath",
+    "occupation": "Web Developer",
+    "description": "Please feel free to contact me if you want to hire me or need any help.",
+    "image": "profile_pic.jpg",
+    "bio": "Hi there!I am Neha Manjunath.My aim is to become a successful Full Stack Developer.I have a passion for coding and developing scalable applications with emerging technlogies and writing efficient business logic.The drive for solving problems and refactoring solutions every day is what i enjoy about software development.I am an avid reader,a dancer,singer and enjoy cooking.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "neham1998@gmail.com",
+    "address": {
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    "website": "http://www.nehamanjunath.com",
+    "resumedownload": "NEHAMANJUNATH.resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nehaamanjunath/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/neha-m98",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "Spotify",
+        "url": "https://open.spotify.com/user/31ggk7dpni5paven5zlg6k7banei?si=FK-Byc1fT9-li_CkIGvqjQ",
+        "className": "fa fa-spotify"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "BMS College of Engineering",
+        "degree": "Bachelors in Electronics and Telecommunication Engineering",
+        "graduated": "August 2020"
+      },
+      {
+        "school": "Jyothy Kendriya Pre University College",
+        "degree": "2nd PUC",
+        "graduated": "April 2016"
+      }
+    ],
+    "work": [
+      {
+        "company": "Brillio",
+        "title": "Senior Software Development Engineer",
+        "years": "March 2022 - Present",
+        "description": "Contributed to the design and development of a healthcare platform using reactjs,html,css,material ui,graphQl.•Indentified platform related processes to improve application efficiency and improved product maintainability by 21 percent.•Followed agile development methodologies which included cross platform coordination with 10 backend developers,2 product managers,5 ui develpers.•Reinforced team in tuning techniques on backend end apis and store procedures resulting in 39% improvement in the performance of the application."
+      },
+      {
+        "company": "Accenture",
+        "title": "Associate Software Engineer",
+        "years": "Dec 2020 - March 2022",
+        "description": "Contributed to the design and development of a food delivery application using java,react,mySQL,PostgreSql,Kibana.•Wrote code for new features and gave demos to the clients resulting in appreciation from the team and Project Manager.•Improved user experience by evaluating user feedback and identified the bottleneck which caused the performace issues.•Created test cases using unit testing framework(Junit)."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React Js",
+        "image": "react.jpg"
+      },
+      {
+        "name": "Git",
+        "image": "git.jpg"
+      },
+      {
+        "name": "Javascript",
+        "image": "js.jpg"
+      },
+      {
+        "name": "",
+        "image": ""
+      },
+      {
+        "name": "Java",
+        "image": "java.jpg"
+      },
+      {
+        "name": "HTML",
+        "image": "html.png"
+      },
+
+      {
+        "name": "Node JS",
+        "image": "node.jpg"
+      },
+      {
+        "name": "",
+        "image": ""
+      },
+      {
+        "name": "",
+        "image": ""
+      },
+      {
+        "name": "Bootstrap",
+        "image": "bootstrap.jpg"
+      },
+      {
+        "name": "MongoDB",
+        "image": "mongo.jpg"
+      },
+      {
+        "name": "Material UI",
+        "image": "mui.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Air BNB Clone",
+        "category": "Air BNB Clone built with ReactJS",
+        "image": "airbnbClone.png",
+        "url": "https://airbnb-clone-using-react.netlify.app/"
+      },
+      {
+        "title": "Food Delivery Application",
+        "category": "Food Delivery App built with ReactJS and Firebase)",
+        "image": "food-delivery-application.png",
+        "url": "https://italian-food-application.netlify.app/"
+      },
+      {
+        "title": "Video Streaming Application",
+        "category": "Video Streaming App built with ReactJS",
+        "image": "video-streaming.png",
+        "url": "https://video-streaming-application.netlify.app/"
+      },
+      {
+        "title": "BMC ChatBot",
+        "category": "BMC ChatBot built with ReactJS",
+        "image": "bmc-chatbot.png",
+        "url": "https://bmc-chatbot.netlify.app/"
+      },
+      {
+        "title": "Expense Tracker",
+        "category": "Expense Tracker built with ReactJS and hooks.",
+        "image": "expense-tracker.png",
+        "url": "https://expensetracker-application.netlify.app/"
+      },
+      {
+        "title": "WhiteBoard",
+        "category": "WhiteBoard built with ReactJS and Canvas.",
+        "image": "whiteboard-app.png",
+        "url": "https://whiteboard-using-canvas.netlify.app/"
+      },
+      {
+        "title": "ToDo Application",
+        "category": "ToDo Application built with ReactJS.",
+        "image": "todo-list.png",
+        "url": "https://simplettodo-list.netlify.app/"
+      }
+    ]
+  }
+}
