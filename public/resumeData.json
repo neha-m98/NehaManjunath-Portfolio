@@ -2,10 +2,10 @@
   "main": {
     "name": "Neha Manjunath",
     "occupation": "Web Developer",
-    "description": "Please feel free to contact me if you want to hire me or need any help.",
+    "description": "Don't hesitate to contact me if you want to hire me or need help.",
     "image": "profile_pic.jpg",
-    "bio": "Hi there!I am Neha Manjunath.My aim is to become a successful Full Stack Developer.I have a passion for coding and developing scalable applications with emerging technlogies and writing efficient business logic.The drive for solving problems and refactoring solutions every day is what i enjoy about software development.I am an avid reader,a dancer,singer and enjoy cooking.",
-    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "bio": "Hi there! I am Neha Manjunath. I aim to become a successful Full Stack Developer. I am passionate about coding and developing scalable applications with emerging technologies and writing efficient business logic. The drive to solve problems and refactor solutions every day is what I enjoy about software development. I am an avid reader, a dancer, and a singer, and I enjoy cooking.",
+    "contactmessage": "Have a project for me? I'd be a good fit for your team. I'd love to hear from you; give me a shout by email or using the form below if you'd like to contact me.",
     "email": "neham1998@gmail.com",
     "address": {
       "city": "Bengaluru",
@@ -49,13 +49,13 @@
         "company": "Brillio",
         "title": "Senior Software Development Engineer",
         "years": "March 2022 - Present",
-        "description": "Contributed to the design and development of a healthcare platform using reactjs,html,css,material ui,graphQl.•Indentified platform related processes to improve application efficiency and improved product maintainability by 21 percent.•Followed agile development methodologies which included cross platform coordination with 10 backend developers,2 product managers,5 ui develpers.•Reinforced team in tuning techniques on backend end apis and store procedures resulting in 39% improvement in the performance of the application."
+        "description": "Contributed to designing and developing a healthcare platform using reactjs, HTML, CSS, material UI, and graphQl. Identified platform-related processes to improve application efficiency and product maintainability by 21 percent.•Followed agile development methodologies, including cross-platform coordination with ten backend developers,2 product managers, and five UI develpers.•Reinforced team in tuning techniques on backend end APIs and store procedures, resulting in a 39% improvement in the performance of the application."
       },
       {
         "company": "Accenture",
         "title": "Associate Software Engineer",
         "years": "Dec 2020 - March 2022",
-        "description": "Contributed to the design and development of a food delivery application using java,react,mySQL,PostgreSql,Kibana.•Wrote code for new features and gave demos to the clients resulting in appreciation from the team and Project Manager.•Improved user experience by evaluating user feedback and identified the bottleneck which caused the performace issues.•Created test cases using unit testing framework(Junit)."
+        "description": "Contributed to the design and development of a food delivery application using java, react, MySQL, PostgreSQL, and Kibana.•Wrote code for new features and gave demos to the clients resulting in appreciation from the team and Project Manager.•Improved user experience by evaluating user feedback and identified the bottleneck which caused the performance issues.•Created test cases using a unit testing framework(Junit)."
       }
     ],
     "skills": [
