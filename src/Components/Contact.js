@@ -111,7 +111,7 @@ class Contact extends Component {
                 {state}
                 <br />
                 <span>
-                  <a href="mailto:neham1998@gmail.com">{email}</a>
+                  <a href="mailto:nehamanjunath98@gmail.com">{email}</a>
                 </span>
               </p>
             </div>
