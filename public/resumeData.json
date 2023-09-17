@@ -33,16 +33,15 @@
   },
   "resume": {
     "education": [
+       {
+        "school": "Northeastern University",
+        "degree": "Master's in Software Engineering Systems",
+      },
       {
         "school": "BMS College of Engineering",
         "degree": "Bachelors in Electronics and Telecommunication Engineering",
         "graduated": "August 2020"
       },
-      {
-        "school": "Jyothy Kendriya Pre University College",
-        "degree": "2nd PUC",
-        "graduated": "April 2016"
-      }
     ],
     "work": [
       {
