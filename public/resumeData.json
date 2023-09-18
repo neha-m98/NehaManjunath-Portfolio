@@ -35,13 +35,13 @@
     "education": [
        {
         "school": "Northeastern University",
-        "degree": "Master's in Software Engineering Systems",
+        "degree": "Master's in Software Engineering Systems"
       },
       {
         "school": "BMS College of Engineering",
         "degree": "Bachelors in Electronics and Telecommunication Engineering",
         "graduated": "August 2020"
-      },
+      }
     ],
     "work": [
       {
