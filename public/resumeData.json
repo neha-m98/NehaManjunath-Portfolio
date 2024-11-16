@@ -8,8 +8,8 @@
     "contactmessage": "Have a project for me? I'd be a good fit for your team. I'd love to hear from you; give me a shout by email or using the form below if you'd like to contact me.",
     "email": "neham1998@gmail.com",
     "address": {
-      "city": "Bengaluru",
-      "state": "Karnataka"
+      "city": "Boston",
+      "state": "MA"
     },
     "website": "http://www.nehamanjunath.com",
     "resumedownload": "NEHAMANJUNATH.resume.pdf",
@@ -45,6 +45,11 @@
       }
     ],
     "work": [
+      {
+        "company": "Dassault Systemes",
+        "title": "Software Engineer Intern",
+        "years": "July 2024 - present",
+      },
       {
         "company": "Brillio",
         "title": "Senior Software Development Engineer",
